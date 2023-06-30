@@ -1,2 +1,2 @@
-# Exersice_03ConditionalStatmentsAdvanced
+# Exercise_03ConditionalStatmentsAdvanced
  FirstStepsInCoding
